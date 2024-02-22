@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.blackapps.kochbuch2",
+      "sha256_cert_fingerprints": [
+        "A3:7B:FD:30:07:E7:D4:FB:57:82:48:7B:83:50:5E:FE:2A:DA:5A:BF:A0:CC:40:C3:2E:31:50:3D:51:0A:3A:FC"
+      ]
+    }
+  }
+]
